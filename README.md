@@ -1,10 +1,19 @@
 # Colors-of-Life
 A recreation of conways game of life with extra cell types
 
-## How To play
+# 📜Game information
+**❗Required To Run**
+* 💻 Windows
+* 
+**❗Required To Run Source Code**
+* 👩‍💻 C++ 17
+* ♻ SFML
+
+
+## 🏃‍♂️How To play
 Once you run the game you will have a selection of cells to chose from which you can place and destory on click you can press space to pause the game
 and you will have to rerun the program to reset the map
-### Editing Game Settings
+### 🔨Editing Game Settings
 Enter the "config.txt" file once inside you should see
 
 ```
