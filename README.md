@@ -4,11 +4,12 @@ A recreation of conways game of life with extra cell types
 # 📜Game information
 **❗Required To Run**
 * 💻 Windows
-* 
+
 **❗Required To Run Source Code**
 * 👩‍💻 C++ 17
 * ♻ SFML
 
+>  [SFML](https://www.sfml-dev.org/download.php)
 
 ## 🏃‍♂️How To play
 Once you run the game you will have a selection of cells to chose from which you can place and destory on click you can press space to pause the game
