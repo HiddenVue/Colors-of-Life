@@ -1,0 +1,3 @@
+CellSize:10
+MapWidth:100
+MapHeight:100
